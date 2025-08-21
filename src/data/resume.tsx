@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Jaskirat Singh",
   initials: "JS",
-  url: "https://jaskirat.vercel.app",
+  url: "https://jaskirat-portfolio-yuyr.vercel.app/",
   location: "Ludhiana,Punjab,India",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "Computer Science student passionate about building scalable web apps, exploring new technologies, and solving real-world problems through code.",
   summary:
     "I'm currently pursuing a B.Tech in Computer Science (since 2023) and have been actively building full-stack projects around cloud file management, streaming, and real-time systems. Recently, I built a full demo of CollabTube — a browser-only file manager simulating cloud storage using IndexedDB and localStorage. I'm enthusiastic about open-source, cloud systems, and distributed computing.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "React",
     "Next.js",
