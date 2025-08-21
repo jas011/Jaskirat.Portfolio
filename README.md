@@ -6,7 +6,7 @@ Absolutely! Here’s a **creative and modern resume-style overview** of yourself
 
 📍 Ludhiana, Punjab, India
 💻 Full-Stack Developer | Cloud Systems Enthusiast | Builder of Collaborative Tools
-📧 [jaskirat0623@gmail.com](mailto:jaskirat0623@gmail.com) • [Portfolio](https://jaskirat.vercel.app) • [GitHub](https://github.com/jas011) • [LinkedIn](https://linkedin.com/in/jaskirat-singh-54a00127b)
+📧 [jaskirat0623@gmail.com](mailto:jaskirat0623@gmail.com) • [Portfolio](https://jaskirat-portfolio-neon.vercel.app/) • [GitHub](https://github.com/jas011) • [LinkedIn](https://linkedin.com/in/jaskirat-singh-54a00127b)
 
 ---
 
@@ -46,3 +46,4 @@ I’m obsessed with clean design, fast systems, and collaborative tools that sca
 ---
 
 If you want a more animated or scroll-driven version for your site, I can help break this into sections like `Hero`, `About`, `Tech Stack`, and `Now Building`. Let me know if you'd like that!
+
